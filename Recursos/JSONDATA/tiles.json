@@ -1,0 +1,22 @@
+{ "columns":20,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
+ "image":"..\/Imagenes\/tiles.png",
+ "imageheight":1024,
+ "imagewidth":1280,
+ "margin":0,
+ "name":"tiles",
+ "spacing":0,
+ "tilecount":320,
+ "tiledversion":"1.4.3",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":1.4
+}
